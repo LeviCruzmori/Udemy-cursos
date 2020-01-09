@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"p",
+				"padding-right\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"re",
+				"no-repeat\tbackground-repeat"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"sp",
+				"SP"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"colspan\tAttr"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ANJELA/Desktop/projeto nenem/principal.html",
+		"/C/Users/ANJELA/Desktop/projeto nenem/index.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/index.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/css/estilo.CSS",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/css/java.js",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/estilo1.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/index1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/links.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/posicionamentos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/elementos-flutuantes-pratica.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/sobrepondo-elementos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/pagina1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/teste_php.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/estilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/estilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/biografia.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/contato.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/campanhas-publicitarias.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/index.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/capanhas-publicitarias.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/zogran.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/cor-imagem-fundo.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/stilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/pagina2.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/pagina1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/estilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/apostila K19 html-js-css/new project-1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/apostila K19 html-js-css/new project 1",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/cor-imagem-fundo.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/estilo-textos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/bordas.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/fonte _cores.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/tamanho de textos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Plastifeico/index.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/Aula corrente html.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/Istilos/inline_style.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Aula/Aula corrente html.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/index.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/Quem-somos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/contato.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/Quem somos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/projeto.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Aula/aula1.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/primeiro desafio.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Web/Projeto Aula/index.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Web/Projeto Aula/Istilo.CSS/Estilo.css"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 58.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

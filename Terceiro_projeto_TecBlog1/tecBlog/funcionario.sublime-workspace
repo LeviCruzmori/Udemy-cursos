@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"target\tAttr"
+			],
+			[
+				"l",
+				"links\tlink - stylesheet"
+			],
+			[
+				"h",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"i",
+				"img\timg"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"te",
+				"text-overflow"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"p",
+				"padding-right\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"sp",
+				"SP"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"colspan\tAttr"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ANJELA/Desktop/site prontos moda",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/css",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/fonts",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images/404",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images/blog",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images/cart",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images/home",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images/product-detalis",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images/shop",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/js"
+	],
+	"file_history":
+	[
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/shop.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/product-details.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/login.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/index.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/checkout.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/contact-us.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/cart.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/blog.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/blog-single.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/404.html",
+		"/C/Users/ANJELA/Desktop/site prontos moda/L&A CHIC/images/home/girl1 (2).jpg",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/juridico.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/Home.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/teste.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/trb.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/marketing.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/servicos.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/contato.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/sejaum parceiro.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/lojaonline.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/Guiacondominio.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/SITE TESTE/agroanimal.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/noticias-cidade/nova-legislacao.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/noticias-cidade/index.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/noticias-cidade/fotos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/noticias-cidade/brasil.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Pagina pincipal/sobre nos.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Pagina pincipal/principal.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/loja online/index.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/videos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/index.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/layuot.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/css/moda.css",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/CFTV.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/cerca eletrica.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/alarme.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/monitoramento 24hs.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/ratreador veicular.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/fotos.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/dicas de segurança.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/tabela de preço.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/promoçoes.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/inicio.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Pagina pincipal/mestreobras.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Pagina pincipal/principal.css",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Pagina pincipal/tabela de preços.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Pagina pincipal/contatos.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/loja online/estilo.css",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Rosa Chique/Rosachique.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/Rosa Chique/estilo.css",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/index2.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/sistema de cameras/estilo2.css",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/principal.html",
+		"/C/Users/ANJELA/Desktop/Central de Negocios/loja online/folha de estilo",
+		"/C/Users/ANJELA/Desktop/Faculdade UNICID EAD/1°Semestre Diciplinas/programação Web/trabalho sem pontuação/AnimesBlog.html",
+		"/C/Users/ANJELA/Desktop/Faculdade UNICID EAD/1°Semestre Diciplinas/programação Web/trabalho sem pontuação/css/anime.css",
+		"/C/Users/ANJELA/Desktop/Faculdade UNICID EAD/1°Semestre Diciplinas/programação Web/trabalho sem pontuação/imagem/RUkh no Teikoku 31.png",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/public class FuncionarioJava{.java",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/css/estilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/layouty de largura fixa/layuot.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/css/layout.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/contatos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/horizontal.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/home.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/noticias.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/sobre.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/servicos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/CSS3 intermediario e avançado/index.html",
+		"/C/Users/ANJELA/Documents/Programação/comandos prontos/comando1.css",
+		"/C/Users/ANJELA/Documents/Programação/comandos prontos/comando1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/css/estilo.CSS",
+		"/C/Users/ANJELA/Desktop/projeto nenem/principal.html",
+		"/C/Users/ANJELA/Desktop/projeto nenem/index.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/css/java.js",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/estilo1.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/tecBlog/index1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/links.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/posicionamentos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/elementos-flutuantes-pratica.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/sobrepondo-elementos.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/pagina1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/elementos flutuantes/teste_php.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto css3 intermediario/estilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/estilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/biografia.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/contato.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/campanhas-publicitarias.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/index.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/capanhas-publicitarias.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/projeto Anna Bella/zogran.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/cor-imagem-fundo.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/stilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/pagina2.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/pagina1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/Projeto CSS3/estilo.css",
+		"/C/Users/ANJELA/Documents/Curso Udemy/apostila K19 html-js-css/new project-1.html",
+		"/C/Users/ANJELA/Documents/Curso Udemy/apostila K19 html-js-css/new project 1",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/cor-imagem-fundo.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/estilo-textos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/bordas.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/fonte _cores.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/tamanho de textos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Plastifeico/index.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/Aula corrente html.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto CSS3/Istilos/inline_style.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Aula/Aula corrente html.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/index.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/Quem-somos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/contato.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/Quem somos.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/projeto.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Aula/aula1.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Primeiro projeto/primeiro desafio.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Web/Projeto Aula/index.html",
+		"/C/Users/ANJELA/Desktop/Curso Udemy/Projeto Web/Projeto Aula/Istilo.CSS/Estilo.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "funcionario.java",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 449.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
